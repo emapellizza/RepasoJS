@@ -1,0 +1,2 @@
+let moduloFuncionDeTareas = require('./funcionesDeTareas');
+

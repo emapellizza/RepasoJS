@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "practica Json",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "otra tarea",
+    "estado": "complatado"
+  },
+  {
+    "titulo": "otra tarea mas",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "pepe",
+    "estado": "completado"
+  },
+  {
+    "titulo": "pepe2",
+    "estado": "completado"
+  }
+]
+

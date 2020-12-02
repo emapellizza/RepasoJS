@@ -1,0 +1,11 @@
+{
+  "name": "clase5_blockdenotas",
+  "version": "1.0.0",
+  "description": "ejercicio clase 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Pellizza",
+  "license": "ISC"
+}
