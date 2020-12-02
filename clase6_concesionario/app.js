@@ -122,7 +122,7 @@ venderAuto : function ( patenteClave) {
     },
 
 }
-//concesionaria.venderAuto('APL123');
+concesionaria.venderAuto('APL123');
 concesionaria.venderAuto('JJK116');
 //let unauto = concesionaria.buscarAuto("APL123");
 let juani = personas[0]
